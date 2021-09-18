@@ -7,3 +7,4 @@ Los integrantes que componen este grupo son:
 
 - Johan Sebastian Gomez Lugo johango5@hotmail.com "Product Owner"
 - Daniel Felipe Plata Herrera plataherrera@gmail.com "Scrum Master"
+- KLissman Cano Surmay kliss0821@gmail.com "Desarrollador"
