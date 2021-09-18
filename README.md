@@ -6,3 +6,4 @@ En este repositorio abordaremos lo solicitado en el proyecto de misión Tic UdeA
 Los integrantes que componen este grupo son:
 
 - Johan Sebastian Gomez Lugo johango5@hotmail.com "Product Owner"
+- Daniel Felipe Plata Herrera plataherrera@gmail.com "Scrum Master"
