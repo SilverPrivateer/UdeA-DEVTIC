@@ -10,3 +10,4 @@ Los integrantes que componen este grupo son:
 - Daniel Felipe Plata Herrera plataherrera@gmail.com "Scrum Master"
 - Jhon Alejandro Sanchez Sanabria alejandross1811@gmail.com "BD administrator"
 - Klissman Cano Surmay kliss0821@gmail.com "Desarrollador"
+- Nelson Steven Rodríguez Ortiz steven980213@gmail.com
