@@ -8,3 +8,4 @@ Los integrantes que componen este grupo son:
 
 - Johan Sebastian Gomez Lugo johango5@hotmail.com "Product Owner"
 - Daniel Felipe Plata Herrera plataherrera@gmail.com "Scrum Master"
+- Jhon Alejandro Sanchez Sanabria alejandross1811@gmail.com "BD administrator"
