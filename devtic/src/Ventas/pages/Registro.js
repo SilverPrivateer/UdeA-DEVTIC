@@ -41,11 +41,16 @@ const Registro =() => {
     const handleClick = () => {
         if (value==="Producto1"){
             
-                
-            
-            
             setPrecio([...precios,{producto:value,unidad:10}])
             
+        }else if (value==="Producto2"){
+            setPrecio([...precios,{producto:value,unidad:20}])
+
+        }else if (value==="Producto3"){
+            setPrecio([...precios,{producto:value,unidad:30}])
+
+        }else{
+            alert("Producto Invalido")
         }
 
     }
