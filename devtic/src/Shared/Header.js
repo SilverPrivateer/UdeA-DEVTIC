@@ -14,6 +14,9 @@ const Header = () =>{
                     <Nav.Link href="/">Home</Nav.Link>
                     <Nav.Link href="/registro_de_ventas">Registro de Ventas</Nav.Link>
                     <Nav.Link href="/maestro_de_ventas">Maestro de Ventas</Nav.Link>
+                    <Nav.Link href="/registro_de_productos">Registro de productos</Nav.Link>
+                    <Nav.Link href="/maestro_de_productos">Maestro de productos</Nav.Link>
+
                 </Nav>
             </Container>
         </Navbar>

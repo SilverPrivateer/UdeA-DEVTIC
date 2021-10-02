@@ -8,6 +8,8 @@ import Home from './Home/pages/Home';
 import Maestro from './Ventas/pages/Maestro';
 import Registro from './Ventas/pages/Registro';
 import Header from "./Shared/Header"
+import Registro_de_productos from "./productos/pages/registro_de_productos";
+import Maestro_de_productos from "./productos/pages/maestro_de_productos";
 
 const App = () => {
 
@@ -26,6 +28,12 @@ const App = () => {
           </Route>
           <Route path="/maestro_de_ventas" exact> 
             <Maestro/>
+          </Route>
+          <Route path="/maestro_de_productos" exact> 
+            <Maestro_de_productos/>
+          </Route>
+          <Route path="/registro_de_productos" exact> 
+            <Registro_de_productos/>
           </Route>
           <Route path="/Error" exact> 
             <Error/>
