@@ -50,7 +50,7 @@ const Registro =() => {
             setPrecio([...precios,{producto:value,unidad:30}])
 
         }else{
-            alert("Producto Invalido")
+            alert("Producto No valido")
         }
 
     }
